@@ -1,2 +1,4 @@
 # Sigma-Public-License
-The Sigma Public License, written to protect open source software from people stealing your work
+Written to protect open source software from people stealing your work
+
+Updates to license will be sent out here.
